@@ -1,7 +1,8 @@
 main:
 
   - title: Representation in genetic studies affects inference about genetic architecture
-    authors: Jared M. Cole, <strong>Shane Rybacki*</strong>, Samuel Patillio Smith, Olivia S. Smith, Arbel Harpak* (*Corresponding authors)
+    authors: Jared M. Cole, <strong>Shane Rybacki</strong>, Samuel Patillio Smith, Olivia S. Smith, Arbel Harpak
+    biorxiv: https://www.biorxiv.org/content/10.64898/2026.01.12.699135.abstract
     pdf: https://www.biorxiv.org/content/10.64898/2026.01.12.699135v1.full.pdf
     image: ./assets/img/sign_bias_preview.png
     notes: Preprint
