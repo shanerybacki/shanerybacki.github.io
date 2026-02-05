@@ -7,5 +7,3 @@ layout: homepage
 I am a first year PhD student in the Department of Statistical Science at Duke University.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
