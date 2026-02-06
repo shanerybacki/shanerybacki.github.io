@@ -15,5 +15,5 @@ I am a first year PhD student in the Department of Statistical Science at Duke U
 ---
 
 ## Teaching
-### Duke University
-* **STA 210L: Regression Analysis** - Spring 2026
+### Teaching Assistant
+* **STA 210L: Regression Analysis** - Spring 2026, Duke University
