@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-# ----WORK IN PROGRESS----
+# ---WORK IN PROGRESS---
 
 ## About Me
 
