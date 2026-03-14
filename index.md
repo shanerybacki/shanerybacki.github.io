@@ -13,10 +13,10 @@ I am a first year PhD student in the Department of Statistical Science at Duke U
 ---
 
 ## Education
-### Duke University
+**Duke University**
 * PhD, *Statistical Science* (2025-Present)
 
-### The University of Texas at Austin
+**The University of Texas at Austin**
 * BS, *Mathematics* (2020-2024)
 * BBA, *Business Honors* (2020-2024)
 
