@@ -597,12 +597,7 @@ footer {
 }
 
 
-/* Target any paragraph that is immediately followed by an unordered list */
-p:has(+ ul) {
-  margin-bottom: 0; /* Removes the paragraph's default bottom spacing */
-}
-
-/* Target the unordered list that immediately follows a paragraph */
+/* Target the list immediately following a paragraph and force it upward */
 p + ul {
-  margin-top: 0.5em; /* Set this to whatever small gap you prefer */
+  margin-top: -1em !important; /* The negative value pulls the list up. Adjust this number to get the exact spacing you want. */
 }
