@@ -595,3 +595,14 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+
+/* Target any paragraph that is immediately followed by an unordered list */
+p:has(+ ul) {
+  margin-bottom: 0; /* Removes the paragraph's default bottom spacing */
+}
+
+/* Target the unordered list that immediately follows a paragraph */
+p + ul {
+  margin-top: 0.5em; /* Set this to whatever small gap you prefer */
+}
